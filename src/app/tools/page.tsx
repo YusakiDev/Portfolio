@@ -15,7 +15,7 @@ export default function Tools() {
                         />
                     </div>
                     
-                    <h2 className="text-xl font-bold mb-2">Luckperms -> AxRankMenu Converter</h2>
+                    <h2 className="text-xl font-bold mb-2">Luckperms → AxRankMenu Converter</h2>
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
                         Convert Luckperms JSON permissions to AxRankMenu YAML format
                     </p>
