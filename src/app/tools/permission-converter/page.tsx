@@ -79,9 +79,6 @@ export default function PermissionConverter() {
                     className="hidden col-span-full p-4 bg-red-100 text-red-700 rounded-lg"
                 />
             </div>
-            <a href="/tools/permission-converter" className="text-brand-link hover:text-brand-link-hover">
-                Launch Tool →
-            </a>
         </div>
     );
 }
