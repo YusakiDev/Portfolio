@@ -14,13 +14,13 @@ export default function PermissionConverter() {
     return (
         <div className="max-w-6xl mx-auto px-4 py-8">
             <Script 
-                src="/js/converter.js"
+                src="/portfolio/js/converter.js"
                 strategy="afterInteractive"
             />
             <div className="flex justify-center mb-4">
                 <div className="relative w-[800px] h-[600px]">
                     <Image
-                        src="/resources/images/permission-converter.png"
+                        src="/portfolio/resources/images/permission-converter.png"
                         alt="Permission Converter"
                         fill
                         className="object-cover rounded-lg"
