@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
     },
     // Add this to copy public files
     distDir: 'out',
-    assetPrefix: '/portfolio/',  // Your repo name with trailing slash
+    assetPrefix: 'https://yusakidev.github.io/portfolio/',  // Your repo name with trailing slash
 };
 
 
