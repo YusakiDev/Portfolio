@@ -5,7 +5,7 @@ export default function About() {
             <div className="prose dark:prose-invert">
                 {/* Add your about content here */}
                 <p className="text-lg mb-4">
-                    Hello! I'm Puree Pangma, a software and game developer...
+                    Hello! I&apos;m Puree Pangma, a software and game developer...
                 </p>
             </div>
         </div>

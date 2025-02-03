@@ -25,7 +25,7 @@ export default function Tools() {
                             href="/tools/permission-converter" 
                             className="text-brand-link hover:text-brand-link-hover"
                         >
-                            Launch Tool {'>'}
+                            Launch Tool &rarr;
                         </a>
                     </div>
                 </div>
