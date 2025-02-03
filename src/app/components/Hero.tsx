@@ -5,7 +5,7 @@ const Hero = () => {
         <div className="relative min-h-[70vh]">
             {/* Background Image with Next.js Image */}
             <Image
-                src="/resources/images/wichard.png"
+                src="/portfolio/resources/images/wichard.png"
                 alt="Background"
                 fill
                 className="object-cover z-0"
