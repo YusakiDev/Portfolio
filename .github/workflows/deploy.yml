@@ -27,4 +27,4 @@ jobs:
         with:
           branch: gh-pages
           folder: out
-          token: ${{ secrets.PAT_TOKEN }}  # Use your PAT here 
+          token: ${{ secrets.ACCESS_TOKEN }}  # Use your PAT here 
