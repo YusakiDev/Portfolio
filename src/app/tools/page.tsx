@@ -22,7 +22,7 @@ export default function Tools() {
 
                     <div className="flex justify-between items-center">
                         <a 
-                            href="/tools/permission-converter" 
+                            href="/portfolio/tools/permission-converter"
                             className="text-brand-link hover:text-brand-link-hover"
                         >
                             Launch Tool →
