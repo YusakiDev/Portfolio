@@ -19,7 +19,7 @@ const Hero = () => {
             {/* Content */}
             <div className="relative z-20 flex flex-col items-center justify-center min-h-[70vh] text-center">
                 <h1 className="text-4xl md:text-6xl font-bold mb-4 text-white">
-                    Hi, I'm <span className="text-brand-accent">Puree Pangma</span>
+                    Hi, I&apos;m <span className="text-brand-accent">Puree Pangma</span>
                 </h1>
                 <h2 className="text-2xl md:text-3xl mb-6 text-gray-200">
                     Software Developer / Game Developer
